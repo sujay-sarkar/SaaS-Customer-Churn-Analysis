@@ -11,11 +11,11 @@ Key Metrics
 
     - Churned Customers
 
-    -Churn Rate (%)
+    - Churn Rate (%)
 
-    -Average Customer Tenure
+    - Average Customer Tenure
 
-    -Average Weekly Engagement (Logins per Week)
+    - Average Weekly Engagement (Logins per Week)
 
 Filters (Slicers) Used
 
