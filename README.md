@@ -1,6 +1,6 @@
 SaaS Customer Churn Analysis | SQL + Power BI
 
-Overview
+Project Overview
 
     This project is an interactive Customer Churn Analytics Dashboard built in Power BI to analyze churn behavior, customer engagement, subscription performance, and retention patterns in a SaaS business.
     SQL was used to explore the dataset, segment customers, and identify churn drivers before visualizing insights in Power BI for data-driven decision making.
